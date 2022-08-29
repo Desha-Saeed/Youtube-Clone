@@ -16,7 +16,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route
-            path='/Youtube-Clone'
+            path='/Youtube-Clone/'
             element={<Feed />}
           />
           <Route
